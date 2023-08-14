@@ -13,8 +13,10 @@ window:
 
 font:
   normal:
-    family: JetBrainsMono Nerd Font
-  size: 19
+    # family: JetBrainsMono Nerd Font
+    family: Fira Code Retina
+    # style: semilight
+  size: 20
 
 items: null
 import:
